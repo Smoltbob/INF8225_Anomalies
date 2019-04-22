@@ -16,8 +16,8 @@
 We installed retinanet from source and the rest of the packages with conda.
 
 ## Contact
-mehdi.miah@gmail.com 
-pankaj.raj.roy@gmail.com
-jules.simon@polymtl.ca
-kang.zhuofei@gmail.com
-zahra.sedaghat@polymtl.ca
+- mehdi.miah@gmail.com 
+- pankaj.raj.roy@gmail.com
+- jules.simon@polymtl.ca
+- kang.zhuofei@gmail.com
+- zahra.sedaghat@polymtl.ca
