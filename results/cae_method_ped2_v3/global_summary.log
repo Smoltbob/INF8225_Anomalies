@@ -1,0 +1,5 @@
+Global summary of abnormal event detection with cae_method_ped2_v3
+---------------------------------------------------------------------
+On average, using layer type (256, 128, 64),
+	100.00% of normal training samples are detected as normal;
+	100.00% of normal validation samples are detected as normal;
