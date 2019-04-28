@@ -1,7 +1,15 @@
 # Anomaly detection in videos
+This repository contains source code for our AI course project about frame-level anomaly detection in videos.
+
+![baseline_methods](assets/schema_baseline.png)
+![ours_ocae_method](assets/ours_ocae_diagram.png)
 
 ## Files
-- oneclasssvm.ipynb : low level method based on HOG and One Class SVM
+- oneclasssvm.ipynb : contains low level method based on HOG and One Class SVM.
+- utilities.py : contains all the utilities for our version of the Object-centric autoencoder method.
+- networks.py : contains the implementations of all the auto-encoders.
+- train_model_v1.py : contains the training script of the auto-encoders.
+- detect_anomalies_v1.py : contains the testing script (inference mode) of the Object-centric autoencoder method.
 
 ## Requirements
 - [retinanet](https://github.com/fizyr/keras-retinanet)
